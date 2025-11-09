@@ -1,2 +1,5 @@
-# Learn-Pandas
-I Learn Pandas here, its not a repo lol
+# Learn Pandas
+
+If you want, you can learn Pandas here.  
+I mainly used [W3Schools](https://www.w3schools.com/python/pandas) as a reference.  
+You can use it for revision, learning Pandas (though I’d recommend using another resource), or just checking out this repo.
