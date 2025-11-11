@@ -5,4 +5,4 @@ I mainly used [W3Schools](https://www.w3schools.com/python/pandas) as a referenc
 You can use it for revision, learning Pandas (though I’d recommend using another resource), or just checking out this repo.
 
 > All files in the src folder are from W3Schools, Check them out:
-- [c3.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
+>- [c3.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
