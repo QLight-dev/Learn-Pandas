@@ -6,3 +6,4 @@ You can use it for revision, learning Pandas (though I’d recommend using anoth
 
 > All files in the src folder are from W3Schools, Check them out:
 >- [c3.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
+>- [c4.json](https://www.w3schools.com/python/pandas/data.js)
