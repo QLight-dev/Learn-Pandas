@@ -10,3 +10,4 @@ You can use it for revision, learning Pandas (though I’d recommend using anoth
 >- [c5.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
 >- [cleaning_data.csv](https://www.w3schools.com/python/pandas/pandas_cleaning.asp)
 >- [c10.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
+>- [c11.csv](https://www.w3schools.com/python/pandas/data.csv.txt)
